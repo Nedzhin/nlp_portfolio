@@ -14,4 +14,4 @@ We repeated the experiment and got nearly the same performance and confirm that 
 - News Headline Classification
 - Sentiment analysis
 
-# Link to the Notebook: is here -> [Notebook](https://colab.research.google.com/drive/1Kjzc9WSghctUIXwAOh0g8dLF-UuYrBgh?usp=sha ring)
+# Link to the Notebook: is here -> [Notebook](https://colab.research.google.com/drive/1Kjzc9WSghctUIXwAOh0g8dLF-UuYrBgh?usp=sharing)
